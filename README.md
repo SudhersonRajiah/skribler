@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm skrib_ler</h1>
+<h1 align="center">Hi 👋, I'm Sudherson Rajiah</h1>
 <h3 align="center">A passionate developer from Kerala</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhersonrajiah&label=Profile%20views&color=0e75b6&style=flat" alt="sudhersonrajiah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhersonrajiah" alt="sudhersonrajiah" /></a> </p>
 
-- 🔭 I’m currently working on **Website development**
+- 🔭 I’m currently working on ** Web Development**
 
-- 🌱 I’m currently learning **angular.js,node**
+- 🌱 I’m currently learning **React.js,node.js**
 
 - 📫 How to reach me **sudhersonrajiah2502@gmail.com**
 
